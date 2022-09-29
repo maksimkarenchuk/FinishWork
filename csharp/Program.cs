@@ -10,3 +10,5 @@ void ArrayStr(string[] masstring)
          else Console.WriteLine($"{array[i]}]");
       }
 }
+
+ArrayStr(array);
