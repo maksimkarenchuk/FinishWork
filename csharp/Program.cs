@@ -1,0 +1,1 @@
+﻿string[] array = { "-2", "Monday", "123", "Wednes day" };
